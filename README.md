@@ -7,4 +7,5 @@
 
 Клонируйте репозиторий.
 Откройте файл Project_realty_prices_model.ipynb в Jupyter Notebook или Google Colab.
+Добавьте файл Price.csv на свой Google Drive.
 Запустите ячейки для выполнения анализа.
